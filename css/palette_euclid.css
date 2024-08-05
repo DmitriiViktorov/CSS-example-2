@@ -1,0 +1,17 @@
+:root {
+  /* основные цветовые акценты сайта - оттенки оранжевого цвета */
+  --color-light-orange: #FFB84D;
+  --color-base-orange: #FF9900;
+  --color-dark-orange: #E1670E;
+  /* базовые цвета - фон, текс и др. */
+  --color-white: #FFF;
+  --color-light-grey: #CACACA;
+  --color-black-transparent: #0000007F;
+  --color-grey: #666;
+  --color-dark-grey: #414141;
+  --color-black: #000;
+  /* градиент */
+
+  /* вспомогательные цвета */
+  --color-checkbox: #97EE3F
+}
